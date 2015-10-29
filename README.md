@@ -5,7 +5,7 @@ Pure Javascript demo code for parsing and rendering STL (ascii and binary) files
 
 The code is currently tightly coupled between the STL parsing and three.js geometry creation for the sake of initial rendering speed. That said, it would be relatively trivial to make the `parseStl()` and `parseStlBinary()` functions be renderer-agnostic. Feel free to cannibalize the code as you see fit.
 
-try it out
+try it out - ghpages
 ----------
 
 Dump this repo on a web server and open up **index.html** in a browser. Voila, [octocat](http://www.thingiverse.com/thing:10367)!
